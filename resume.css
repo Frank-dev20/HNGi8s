@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+    margin-left: 90;
+    background-color: bisque;
+}
+
+button{
+    background-color: bisque;
+    text-decoration: brown;
+    color: white;
+    border-style: groove;
+}
